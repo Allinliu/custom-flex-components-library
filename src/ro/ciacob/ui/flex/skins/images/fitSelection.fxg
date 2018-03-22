@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic xmlns="http://ns.adobe.com/fxg/2008" xmlns:fxg="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" version="2.0">
+  <!--Unknown tag: metadata-->
+  <!--Unknown tag: defs-->
+  <!--Unknown tag: sodipodi:namedview-->
+  <Rect x="34" y="34" width="61" height="61" id="rect10">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Rect>
+  <Path data="M98.9 0c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8c5.8 0 5.8 0 5.8-5.8S104.7 0 98.9 0z" winding="nonZero" id="path12">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M122.2 23.3c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S128 23.3 122.2 23.3z" winding="nonZero" id="path14">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M122.2 46.5c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S128 46.5 122.2 46.5z" winding="nonZero" id="path16">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M75.6 0c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S81.5 0 75.6 0z" winding="nonZero" id="path18">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M122.2 69.8c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S128 69.8 122.2 69.8z" winding="nonZero" id="path20">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M52.4 0c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S58.2 0 52.4 0z" winding="nonZero" id="path22">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M122.2 93.1c-5.8 0-5.8 0-5.8 5.8c0 5.8 0 5.8 5.8 5.8s5.8 0 5.8-5.8C128 93.1 128 93.1 122.2 93.1z" winding="nonZero" id="path24">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M29.1 0c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S34.9 0 29.1 0z" winding="nonZero" id="path26">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M122.2 116.4c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S128 116.4 122.2 116.4z" winding="nonZero" id="path28">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M5.8 0C0 0 0 0 0 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S11.6 0 5.8 0z" winding="nonZero" id="path30">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M98.9 116.4c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8c5.8 0 5.8 0 5.8-5.8S104.7 116.4 98.9 116.4z" winding="nonZero" id="path32">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M5.8 23.3c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S11.6 23.3 5.8 23.3z" winding="nonZero" id="path34">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M5.8 46.5c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S11.6 46.5 5.8 46.5z" winding="nonZero" id="path36">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M75.6 116.4c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S81.5 116.4 75.6 116.4z" winding="nonZero" id="path38">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M5.8 69.8c-5.8 0-5.8 0-5.8 5.8c0 5.8 0 5.8 5.8 5.8s5.8 0 5.8-5.8S11.6 69.8 5.8 69.8z" winding="nonZero" id="path40">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M52.4 116.4c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S58.2 116.4 52.4 116.4z" winding="nonZero" id="path42">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M5.8 93.1c-5.8 0-5.8 0-5.8 5.8c0 5.8 0 5.8 5.8 5.8s5.8 0 5.8-5.8C11.6 93.1 11.6 93.1 5.8 93.1z" winding="nonZero" id="path44">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M29.1 116.4c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S34.9 116.4 29.1 116.4z" winding="nonZero" id="path46">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M5.8 116.4c-5.8 0-5.8 0-5.8 5.8c0 5.8 0 5.8 5.8 5.8s5.8 0 5.8-5.8S11.6 116.4 5.8 116.4z" winding="nonZero" id="path48">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+  <Path data="M122.2 0c-5.8 0-5.8 0-5.8 5.8s0 5.8 5.8 5.8s5.8 0 5.8-5.8S128 0 122.2 0z" winding="nonZero" id="path50">
+    <fill>
+      <SolidColor color="#ffffff" alpha="1"/>
+    </fill>
+  </Path>
+</Graphic>
